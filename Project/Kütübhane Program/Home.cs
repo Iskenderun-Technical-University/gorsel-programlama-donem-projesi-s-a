@@ -19,11 +19,26 @@ namespace Kütübhane_Program
 
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
+            liste fr1 = new liste();
+            fr1.ShowDialog();
             this.Hide();
-            liste frm1 = new liste();
-            frm1.ShowDialog();
 
-          
+
+        }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuButton1_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

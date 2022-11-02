@@ -19,8 +19,7 @@ namespace Kütübhane_Program
 
         private void button1_Click(object sender, EventArgs e)
         {
-            konular fr3 = new konular();
-            fr3.Show();
+           
 
 
         }

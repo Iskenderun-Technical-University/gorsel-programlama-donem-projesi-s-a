@@ -28,4 +28,3 @@ C:\Users\okyanus\Desktop\Kütübhane Program\Kütübhane Program\obj\Debug\Küt�
 C:\Users\okyanus\Desktop\Kütübhane Program\Kütübhane Program\obj\Debug\Kütübhane Program.exe
 C:\Users\okyanus\Desktop\Kütübhane Program\Kütübhane Program\obj\Debug\Kütübhane Program.pdb
 C:\Users\okyanus\Desktop\Kütübhane Program\Kütübhane Program\obj\Debug\Kütübhane_Program.KiTAPLAR.resources
-C:\Users\okyanus\Desktop\Kütübhane Program\Kütübhane Program\obj\Debug\Kütübhane_Program.konular.resources

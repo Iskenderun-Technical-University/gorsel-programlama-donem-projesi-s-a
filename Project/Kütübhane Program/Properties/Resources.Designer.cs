@@ -73,6 +73,46 @@ namespace Kütübhane_Program.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2222222 {
+            get {
+                object obj = ResourceManager.GetObject("2222222", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap abartma__kitabi {
+            get {
+                object obj = ResourceManager.GetObject("abartma -kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap anadoluda_birarada {
+            get {
+                object obj = ResourceManager.GetObject("anadoluda-birarada", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap atesten_gomlek {
+            get {
+                object obj = ResourceManager.GetObject("atesten-gomlek", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap back {
             get {
                 object obj = ResourceManager.GetObject("back", resourceCulture);
@@ -113,6 +153,26 @@ namespace Kütübhane_Program.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap beyazkitabi {
+            get {
+                object obj = ResourceManager.GetObject("beyazkitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bir_psikiyatristin {
+            get {
+                object obj = ResourceManager.GetObject("bir-psikiyatristin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap book_stack {
             get {
                 object obj = ResourceManager.GetObject("book-stack", resourceCulture);
@@ -133,9 +193,39 @@ namespace Kütübhane_Program.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap erson {
+        internal static System.Drawing.Bitmap bulbulu_oldurmek_kitabi {
             get {
-                object obj = ResourceManager.GetObject("erson", resourceCulture);
+                object obj = ResourceManager.GetObject("bulbulu-oldurmek-kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cizgilicocuk_kitaplari {
+            get {
+                object obj = ResourceManager.GetObject("cizgilicocuk-kitaplari", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dedemin_kitabi {
+            get {
+                object obj = ResourceManager.GetObject("dedemin-kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dene {
+            get {
+                object obj = ResourceManager.GetObject("dene", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +243,49 @@ namespace Kütübhane_Program.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap insan_insana {
+            get {
+                object obj = ResourceManager.GetObject("insan-insana", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap insan_olmak {
+            get {
+                object obj = ResourceManager.GetObject("insan-olmak", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kucuk_kitabi {
+            get {
+                object obj = ResourceManager.GetObject("kucuk-kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap KÜTÜPHANE_ILK {
             get {
                 object obj = ResourceManager.GetObject("KÜTÜPHANE ILK", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap muhtesem_kanuni {
+            get {
+                object obj = ResourceManager.GetObject("muhtesem-kanuni", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -176,6 +306,76 @@ namespace Kütübhane_Program.Properties {
         internal static System.Drawing.Bitmap password_image1 {
             get {
                 object obj = ResourceManager.GetObject("password image1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ruhun_derin_yaralari_kitabi {
+            get {
+                object obj = ResourceManager.GetObject("ruhun-derin-yaralari-kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap seker_portakali_kitabi_1 {
+            get {
+                object obj = ResourceManager.GetObject("seker-portakali-kitabi_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap seninle_baslamadi {
+            get {
+                object obj = ResourceManager.GetObject("seninle-baslamadi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap serenad_kitabi {
+            get {
+                object obj = ResourceManager.GetObject("serenad-kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap son_curet_kitabi {
+            get {
+                object obj = ResourceManager.GetObject("son-curet-kitabi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap turk_sosyol {
+            get {
+                object obj = ResourceManager.GetObject("turk-sosyol", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap zamanin_kitabi {
+            get {
+                object obj = ResourceManager.GetObject("zamanin-kitabi", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

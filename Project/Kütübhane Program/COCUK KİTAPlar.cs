@@ -10,24 +10,18 @@ using System.Windows.Forms;
 
 namespace Kütübhane_Program
 {
-    public partial class KiTAPLAR : Form
+    public partial class ÇOCUK_KİTAPLARI : Form
     {
-        public KiTAPLAR()
+        public ÇOCUK_KİTAPLARI()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btındon_Click(object sender, EventArgs e)
         {
-            konular fr3 = new konular();
-            fr3.Show();
-
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            this.Hide();
+            liste f1 = new liste();
+            f1.Show();
         }
     }
 }
