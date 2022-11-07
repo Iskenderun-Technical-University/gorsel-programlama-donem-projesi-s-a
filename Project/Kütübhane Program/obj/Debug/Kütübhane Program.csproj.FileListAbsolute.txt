@@ -46,3 +46,22 @@ C:\Users\okyanus\Desktop\Kütübhane Program\obj\Debug\Kütübhane_Program.ROMAN
 C:\Users\okyanus\Desktop\Kütübhane Program\obj\Debug\Kütübhane_Program.ÇOCUK_KİTAPLARI.resources
 C:\Users\okyanus\Desktop\Kütübhane Program\obj\Debug\Kütübhane_Program.Tarih.resources
 C:\Users\okyanus\Desktop\Kütübhane Program\obj\Debug\Kütübhane_Program.Psikolojik.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\bin\Debug\Kütübhane Program.exe.config
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\bin\Debug\Kütübhane Program.exe
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\bin\Debug\Kütübhane Program.pdb
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.csproj.AssemblyReference.cache
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.Home.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.Psikolojik.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.ROMANLAR.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.liste.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.Properties.Resources.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.ÇOCUK_KİTAPLARI.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane_Program.Tarih.resources
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.csproj.GenerateResource.cache
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.exe.licenses
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.csproj.CoreCompileInputs.cache
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.csproj.CopyComplete
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.exe
+C:\Users\okyanus\Desktop\gorsel-programlama-donem-projesi-s-a\Project\Kütübhane Program\obj\Debug\Kütübhane Program.pdb

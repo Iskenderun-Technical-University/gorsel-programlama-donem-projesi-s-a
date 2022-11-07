@@ -127,14 +127,20 @@
   <data name="dedemin-kitabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dedemin-kitabi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bir-psikiyatristin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bir-psikiyatristin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="kucuk-kitabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kucuk-kitabi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="anadoluda-birarada" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\anadoluda-birarada.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="books" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\books.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="turk-sosyol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\turk-sosyol.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sep1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sep1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="seker-portakali-kitabi_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\seker-portakali-kitabi_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,11 +157,11 @@
   <data name="back2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\back2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1 ürün" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1 ürün.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\back.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="atesten-gomlek" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\atesten-gomlek.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,14 +178,11 @@
   <data name="cizgilicocuk-kitaplari" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cizgilicocuk-kitaplari.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="insan-insana" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\insan-insana.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="bulbulu-oldurmek-kitabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bulbulu-oldurmek-kitabi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="turk-sosyol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\turk-sosyol.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1 ürün" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1 ürün.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="back3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\back3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -190,11 +193,14 @@
   <data name="son-curet-kitabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\son-curet-kitabi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="zamanin-kitabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\zamanin-kitabi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="spt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\spt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="serenad-kitabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\serenad-kitabi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,8 +208,11 @@
   <data name="insan-olmak" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\insan-olmak.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="insan-insana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\insan-insana.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="books" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\books.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="seninle-baslamadi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\seninle-baslamadi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -211,7 +220,7 @@
   <data name="2222222" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2222222.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bir-psikiyatristin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bir-psikiyatristin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sl1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sl1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
