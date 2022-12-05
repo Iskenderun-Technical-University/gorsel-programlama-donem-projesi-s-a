@@ -68,6 +68,11 @@
     <Compile Include="Home.Designer.cs">
       <DependentUpon>Home.cs</DependentUpon>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Psikolojik.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,14 +117,9 @@
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="COCUK KİTAPlar.resx">
       <DependentUpon>COCUK KİTAPlar.cs</DependentUpon>
     </EmbeddedResource>
@@ -143,40 +143,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\KÜTÜPHANE ILK.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\back.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\password image.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\password image1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\book-stack.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\books.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\back1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\back2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\back3.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\image.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\1 ürün.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dene.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\son-curet-kitabi.jpg" />
@@ -198,9 +174,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ruhun-derin-yaralari-kitabi.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2222222.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\seker-portakali-kitabi_1.jpg" />
@@ -239,19 +212,13 @@
     <None Include="Resources\bir-psikiyatristin.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\spt.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sep1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sl1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Cart.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Black X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KÜTÜPHANE.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

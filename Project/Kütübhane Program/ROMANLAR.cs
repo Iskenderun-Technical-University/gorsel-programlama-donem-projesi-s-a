@@ -90,11 +90,29 @@ namespace Kütübhane_Program
 
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
-            Program.adet += Int32.Parse(label11.Text);
+            Program.adet += Convert.ToInt32(label11.Text);
             label19.Text = Program.adet.ToString();
-           
-            Program.sepete.Grid.Rows.Add(1, label1.Text, 45, Int32.Parse(label11.Text), Int32.Parse(label11.Text) * 45);
-
+            bool found =false;
+            int x, i;
+            for ( i=0; i<Program.sepete.Grid.RowCount; i++)
+            {
+                if (Convert.ToInt32(Program.sepete.Grid[0, i].Value) == 1)
+                {
+                    found = true;
+                    break;
+                } 
+            }
+            if (found)
+            {
+                x = Convert.ToInt32(Program.sepete.Grid[3, i].Value);
+                x += Convert.ToInt32(label11.Text);
+                Program.sepete.Grid[3, i].Value = x;
+                Program.sepete.Grid[4, i].Value = x * 45;
+            }
+            else
+            {
+                Program.sepete.Grid.Rows.Add(1, label1.Text, 45, Convert.ToInt32(label11.Text), Convert.ToInt32(label11.Text) * 45);
+            }
             a[0] = 0;
             label11.Text = a[0].ToString();
         }

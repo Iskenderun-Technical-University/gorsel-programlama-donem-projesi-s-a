@@ -22,10 +22,12 @@ namespace Kütübhane_Program
             if(panel1.Visible == true)
             {
                 panel1.Visible = false;
+                label1.Visible = true;
             }
             else
             {
                 panel1.Visible = true;
+                label1.Visible = false;
             }
         }
 
