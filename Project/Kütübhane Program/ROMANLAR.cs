@@ -36,7 +36,7 @@ namespace Kütübhane_Program
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            if(a[0] > 0)
+            if (a[0] > 0)
             {
                 a[0]--;
                 label11.Text = Convert.ToString(a[0]);
@@ -88,64 +88,40 @@ namespace Kütübhane_Program
             }
         }
 
+        public string[] kitap;
+
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
+            kitap = new string[5] { "1", label1.Text, "45", label11.Text, (45 * Convert.ToInt32(label11.Text)).ToString() };
             Program.adet += Convert.ToInt32(label11.Text);
             label19.Text = Program.adet.ToString();
-            bool found =false;
-            int x, i;
-            for ( i=0; i<Program.sepete.Grid.RowCount; i++)
-            {
-                if (Convert.ToInt32(Program.sepete.Grid[0, i].Value) == 1)
-                {
-                    found = true;
-                    break;
-                } 
-            }
-            if (found)
-            {
-                x = Convert.ToInt32(Program.sepete.Grid[3, i].Value);
-                x += Convert.ToInt32(label11.Text);
-                Program.sepete.Grid[3, i].Value = x;
-                Program.sepete.Grid[4, i].Value = x * 45;
-            }
-            else
-            {
-                Program.sepete.Grid.Rows.Add(1, label1.Text, 45, Convert.ToInt32(label11.Text), Convert.ToInt32(label11.Text) * 45);
-            }
             a[0] = 0;
             label11.Text = a[0].ToString();
         }
 
         private void bunifuButton2_Click(object sender, EventArgs e)
         {
+            kitap = new string[5] { "2", label2.Text, "50", label12.Text, (50 * Convert.ToInt32(label12.Text)).ToString() };
             Program.adet += Int32.Parse(label12.Text);
             label19.Text = Program.adet.ToString();
-
-            Program.sepete.Grid.Rows.Add(2, label2.Text, 50, Int32.Parse(label12.Text), Int32.Parse(label12.Text) * 50);
-
             a[1] = 0;
             label12.Text = a[1].ToString();
         }
 
         private void bunifuButton4_Click(object sender, EventArgs e)
         {
+            kitap = new string[5] { "3", label5.Text, "64", label15.Text, (64 * Convert.ToInt32(label15.Text)).ToString() };
             Program.adet += Int32.Parse(label15.Text);
             label19.Text = Program.adet.ToString();
-
-            Program.sepete.Grid.Rows.Add(3, label5.Text, 64, Int32.Parse(label15.Text), Int32.Parse(label15.Text) * 45);
-
             a[2] = 0;
             label15.Text = a[2].ToString();
         }
 
         private void bunifuButton3_Click(object sender, EventArgs e)
         {
+            kitap = new string[5] { "4", label6.Text, "72", label16.Text, (72 * Convert.ToInt32(label16.Text)).ToString() };
             Program.adet += Int32.Parse(label16.Text);
             label19.Text = Program.adet.ToString();
-
-            Program.sepete.Grid.Rows.Add(4, label6.Text, 72, Int32.Parse(label16.Text), Int32.Parse(label16.Text) * 72);
-
             a[3] = 0;
             label16.Text = a[3].ToString();
         }
@@ -153,6 +129,30 @@ namespace Kütübhane_Program
         private void pictureBox3_Click(object sender, EventArgs e)
         {
             Program.sepete.Show();
+        }
+
+        private void label19_TextChanged(object sender, EventArgs e)
+        {
+            int i, adet;
+            bool exist = false;
+            for( i=0; i<Program.sepete.Grid.RowCount; i++)
+            {
+                if (Convert.ToInt32(Program.sepete.Grid[0, i].Value) == Convert.ToInt32(kitap[0]))
+                {
+                    exist = true;
+                    break;
+                }
+            }
+            if(exist)
+            {
+                adet = Convert.ToInt32(Program.sepete.Grid[3, i].Value) + Convert.ToInt32(kitap[3]);
+                Program.sepete.Grid[3, i].Value = adet;
+                Program.sepete.Grid[4, i].Value = adet * Convert.ToInt32(kitap[2]);
+            }
+            else
+            {
+                Program.sepete.Grid.Rows.Add(kitap[0], kitap[1], kitap[2], kitap[3], kitap[4]);
+            }
         }
     }
 }
