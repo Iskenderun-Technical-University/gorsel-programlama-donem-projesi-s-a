@@ -1059,11 +1059,11 @@ namespace Kütübhane_Program
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Label label21;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton bunifuButton3;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton bunifuButton4;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton bunifuButton2;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton bunifuButton1;
         private System.Windows.Forms.PictureBox pictureBox5;
+        public System.Windows.Forms.Label label21;
     }
 }

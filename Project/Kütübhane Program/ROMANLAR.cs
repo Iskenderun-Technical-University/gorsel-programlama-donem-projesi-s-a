@@ -97,6 +97,7 @@ namespace Kütübhane_Program
             label19.Text = Program.adet.ToString();
             a[0] = 0;
             label11.Text = a[0].ToString();
+            label22.Text = (Convert.ToInt32(label22.Text) + 1).ToString();
         }
 
         private void bunifuButton2_Click(object sender, EventArgs e)
@@ -106,6 +107,7 @@ namespace Kütübhane_Program
             label19.Text = Program.adet.ToString();
             a[1] = 0;
             label12.Text = a[1].ToString();
+            label22.Text = (Convert.ToInt32(label22.Text) + 1).ToString();
         }
 
         private void bunifuButton4_Click(object sender, EventArgs e)
@@ -115,6 +117,7 @@ namespace Kütübhane_Program
             label19.Text = Program.adet.ToString();
             a[2] = 0;
             label15.Text = a[2].ToString();
+            label22.Text = (Convert.ToInt32(label22.Text) + 1).ToString();
         }
 
         private void bunifuButton3_Click(object sender, EventArgs e)
@@ -124,6 +127,7 @@ namespace Kütübhane_Program
             label19.Text = Program.adet.ToString();
             a[3] = 0;
             label16.Text = a[3].ToString();
+            label22.Text = (Convert.ToInt32(label22.Text) + 1).ToString();
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -131,11 +135,11 @@ namespace Kütübhane_Program
             Program.sepete.Show();
         }
 
-        private void label19_TextChanged(object sender, EventArgs e)
+        private void label22_TextChanged(object sender, EventArgs e)
         {
             int i, adet;
             bool exist = false;
-            for( i=0; i<Program.sepete.Grid.RowCount; i++)
+            for (i = 0; i < Program.sepete.Grid.RowCount; i++)
             {
                 if (Convert.ToInt32(Program.sepete.Grid[0, i].Value) == Convert.ToInt32(kitap[0]))
                 {
@@ -143,7 +147,7 @@ namespace Kütübhane_Program
                     break;
                 }
             }
-            if(exist)
+            if (exist)
             {
                 adet = Convert.ToInt32(Program.sepete.Grid[3, i].Value) + Convert.ToInt32(kitap[3]);
                 Program.sepete.Grid[3, i].Value = adet;
@@ -153,6 +157,7 @@ namespace Kütübhane_Program
             {
                 Program.sepete.Grid.Rows.Add(kitap[0], kitap[1], kitap[2], kitap[3], kitap[4]);
             }
+            Program.sepete.label2.Text = (Convert.ToInt32(Program.sepete.label2.Text) + Convert.ToInt32(kitap[4])).ToString();
         }
     }
 }
