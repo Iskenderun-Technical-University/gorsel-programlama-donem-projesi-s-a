@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>İçimizdeki Şeytan - Sabahattin Ali
+
+
+Ruhundaki çelişki ve çalkantılara, varoluş sancılarına
+ ilk görüşte âşık olduğu Macide ile katlanır Ömer.
+ Macide’nin sağlam iradeli ve dik duruşlu yapısının aksine o, tembelliği ve
+ iradesizliğiyle yüzleşemeyen bir karaktere sahiptir. İçimizdeki Şeytan, 
+Ömer ve Macide’nin aşk hikâyesi üzerinden, okurları arzulara ve
+ iç çatışmalarına dair ciddi sorgulamalarla baş başa bırakıyor.
+ Sabahattin Ali’nin bu ikinci romanı, insan doğasına dair derinlikli gözlemleri ve
+ yoğun psikolojik tahlilleriyle edebiyatımızın köşe taşlarından biri olmayı özelliği taşıyor.
+“İçimizde şeytan yok... İçimizde acz var... Tembellik var... 
+İradesizlik, bilgisizlik ve bunların hepsinden daha korkunç bir şey:
+ hakikatleri görmekten kaçmak itiyadı var...”
+
+</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>
+
+
+Son Cüret - Yılmaz Özdil
+
+
+Gazeteci ve yazar Yılmaz Özdil’in millî mücadeleyi anlatan kitabı Son Cüret,
+ yılın son çeyreğinde basılmasına karşın 2020’nin en çok okunan kitapları arasına girmeyi başardı.
+ Kitapta istiklal harbi madalyasına sahip Ermeni kahramanlarımızdan
+ yine millî mücadelemize destek olan farklı milletlerden insanlara, 
+Man Adası’nda kilise bahçesinde yatan şehitlerimizden dünyanın dört 
+bir yanındaki kamplarda esir tutulan Türklere ve çok daha fazlasına yer veriliyor</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Çizgili Pijamalı Çocuk - John Boyne
+
+Babasının Alman ordusunda aldığı terfiden sonra Bruno ve ailesi Auschwitz’e taşınırlar.
+ Bruno buradaki evlerinden toplama kampını ve
+ içindeki hapishane kıyafetleri giymiş esirleri görür ve
+ bir gün bu “çizgili pijamalı” insanları daha yakından tanımaya karar verir
+. Çitin öbür tarafında yaşayan Shmuel ile kurduğu dostluk, 
+ikisinin de hayatını değiştirecektir. Yayımlandıktan sonra
+ New York Times’ın çok satanlar listesinde ilk sırada yer alan bu sarsıcı öykü, 
+çocuklara olduğu kadar yetişkinlere de hitap ediyor.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Zamanın Kısa Tarihi - Stephen Hawking
+
+Einstein’dan bu yana en parlak fizikçi olarak kabul edilen Stephen Hawking’in 
+Zamanın Kısa Tarihi adlı eseri dünya genelinde satış rekorları kırmıştır.
+ Bu başarısını ise belki de büyük ölçüde anlatımının sadeliğine borçludur.
+ Zamanın Kısa Tarihi evrenin genişlemesi, kara delikler, evrenin başı ve
+ sonu ve zamanda yolculuk gibi kozmolojik konuları derinlemesine inceliyor.
+ Bunu yaparken de, konuya vakıf olan veya olmayan her türden okurun ilgisini 
+çekebilecek sade ve anlaşılır bir dil kullanıyor.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuButton3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAALQAAAAsCAYAAADM+JIcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM8SURBVHhe7Z09bBMxFMdvZGRkZGQ7XxESWxiIXTHwEfsE
+        C4IFiQUJJAbYOiIxsDFUYsjE0KlDV1aEGDKyFTFUQkrTNA0flTLAe3cvNGmdQD56nE//v/RTq97ZvuHf
+        p3f2sy9aVHE9VUo3niXGrilj39PPltKunRj3C4BJ5B6xLWGNWVm9dVlsVawS7VbpAZr8UGTifWXcwPfQ
+        AMwC+amrtO2RvzaSursjdjs9cTTm/ygycNf3QAAsC/JYj7y2HRt7Rey3PF26lp6jzrc4GvsGB+DU4KhN
+        qexF3bggdlxMeY7svlDH/gEBKADy4NfkqrsutpxPqu5S6mjXNwAARUORukOefC72nE3ckDrpHO8UgP8K
+        vTRSkN0Um/6bODJTY5gZlBJVtwf087XYdbokZ0aaAUqO3aOc+q7Y1q/Y3D5PL3+f/R0AUDK0a09djKGb
+        3p1oBECpsdti33FlqQbmmUFoaHdAPBIbH4md7m0AQPnp1Gr3zoiVKTrrxk0yNKIzCBT7Ten0qdg5Kzba
+        8N8IQCjYltg5iih3/uG/CYBgOIxrN85GXM1EERrVcyBstO3HJr0fcXE+6plBNbBN5M+gQlAezbWm/osA
+        hAVlGjuYfwaVgSc3MMMBKgUbGi+EoDKQod2O7wIAocHBmXPolu8iAKGhtGtj2g5UCNviGuiX9IvnIgAB
+        kZ1KYLdQaQeqgXaHsXaPI64jpT/8PHEDAGHR5y2Ew2o7rBaCoMlWCYeilOMhvSF+990IQNmJTWNAQfmV
+        2Dkaph04hwMECQXjHp+/KHbOxWccUKTe8zUAoKzE+Ur3uth4XGRoFCqB0BjfIDsq3r2itMXp+yAIlEn3
+        Y50+EPv6ldTtE8pJsCULlBquEl0x7o3Ydrr4Rm7g6wiAMqCM+zgx1fCJDP2BGmEqD5SRT9kO71nE7qfU
+        Y5PP4/V0CEDhcNbAkXlmM48KB5+DMsDvdUrbtzOlGZN0dAC6Rc0HKBSZZ+7yZIXYcTnKUhDTeEEhf5eX
+        Go8PDMCykdm29YVSjL+Jlxh53ZyLQWiwPpftjT4EAPNCnhrwhzfJyPyV2eaf6rmixANyDSoZPP8kMjbc
+        grnIP5HMp3gt9j3CKPoNjmXKwpCv34sAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuButton4.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAALQAAAAsCAYAAADM+JIcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM8SURBVHhe7Z09bBMxFMdvZGRkZGQ7XxESWxiIXTHwEfsE
+        C4IFiQUJJAbYOiIxsDFUYsjE0KlDV1aEGDKyFTFUQkrTNA0flTLAe3cvNGmdQD56nE//v/RTq97ZvuHf
+        p3f2sy9aVHE9VUo3niXGrilj39PPltKunRj3C4BJ5B6xLWGNWVm9dVlsVawS7VbpAZr8UGTifWXcwPfQ
+        AMwC+amrtO2RvzaSursjdjs9cTTm/ygycNf3QAAsC/JYj7y2HRt7Rey3PF26lp6jzrc4GvsGB+DU4KhN
+        qexF3bggdlxMeY7svlDH/gEBKADy4NfkqrsutpxPqu5S6mjXNwAARUORukOefC72nE3ckDrpHO8UgP8K
+        vTRSkN0Um/6bODJTY5gZlBJVtwf087XYdbokZ0aaAUqO3aOc+q7Y1q/Y3D5PL3+f/R0AUDK0a09djKGb
+        3p1oBECpsdti33FlqQbmmUFoaHdAPBIbH4md7m0AQPnp1Gr3zoiVKTrrxk0yNKIzCBT7Ten0qdg5Kzba
+        8N8IQCjYltg5iih3/uG/CYBgOIxrN85GXM1EERrVcyBstO3HJr0fcXE+6plBNbBN5M+gQlAezbWm/osA
+        hAVlGjuYfwaVgSc3MMMBKgUbGi+EoDKQod2O7wIAocHBmXPolu8iAKGhtGtj2g5UCNviGuiX9IvnIgAB
+        kZ1KYLdQaQeqgXaHsXaPI64jpT/8PHEDAGHR5y2Ew2o7rBaCoMlWCYeilOMhvSF+990IQNmJTWNAQfmV
+        2Dkaph04hwMECQXjHp+/KHbOxWccUKTe8zUAoKzE+Ur3uth4XGRoFCqB0BjfIDsq3r2itMXp+yAIlEn3
+        Y50+EPv6ldTtE8pJsCULlBquEl0x7o3Ydrr4Rm7g6wiAMqCM+zgx1fCJDP2BGmEqD5SRT9kO71nE7qfU
+        Y5PP4/V0CEDhcNbAkXlmM48KB5+DMsDvdUrbtzOlGZN0dAC6Rc0HKBSZZ+7yZIXYcTnKUhDTeEEhf5eX
+        Go8PDMCykdm29YVSjL+Jlxh53ZyLQWiwPpftjT4EAPNCnhrwhzfJyPyV2eaf6rmixANyDSoZPP8kMjbc
+        grnIP5HMp3gt9j3CKPoNjmXKwpCv34sAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuButton2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAALQAAAAsCAYAAADM+JIcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM8SURBVHhe7Z09bBMxFMdvZGRkZGQ7XxESWxiIXTHwEfsE
+        C4IFiQUJJAbYOiIxsDFUYsjE0KlDV1aEGDKyFTFUQkrTNA0flTLAe3cvNGmdQD56nE//v/RTq97ZvuHf
+        p3f2sy9aVHE9VUo3niXGrilj39PPltKunRj3C4BJ5B6xLWGNWVm9dVlsVawS7VbpAZr8UGTifWXcwPfQ
+        AMwC+amrtO2RvzaSursjdjs9cTTm/ygycNf3QAAsC/JYj7y2HRt7Rey3PF26lp6jzrc4GvsGB+DU4KhN
+        qexF3bggdlxMeY7svlDH/gEBKADy4NfkqrsutpxPqu5S6mjXNwAARUORukOefC72nE3ckDrpHO8UgP8K
+        vTRSkN0Um/6bODJTY5gZlBJVtwf087XYdbokZ0aaAUqO3aOc+q7Y1q/Y3D5PL3+f/R0AUDK0a09djKGb
+        3p1oBECpsdti33FlqQbmmUFoaHdAPBIbH4md7m0AQPnp1Gr3zoiVKTrrxk0yNKIzCBT7Ten0qdg5Kzba
+        8N8IQCjYltg5iih3/uG/CYBgOIxrN85GXM1EERrVcyBstO3HJr0fcXE+6plBNbBN5M+gQlAezbWm/osA
+        hAVlGjuYfwaVgSc3MMMBKgUbGi+EoDKQod2O7wIAocHBmXPolu8iAKGhtGtj2g5UCNviGuiX9IvnIgAB
+        kZ1KYLdQaQeqgXaHsXaPI64jpT/8PHEDAGHR5y2Ew2o7rBaCoMlWCYeilOMhvSF+990IQNmJTWNAQfmV
+        2Dkaph04hwMECQXjHp+/KHbOxWccUKTe8zUAoKzE+Ur3uth4XGRoFCqB0BjfIDsq3r2itMXp+yAIlEn3
+        Y50+EPv6ldTtE8pJsCULlBquEl0x7o3Ydrr4Rm7g6wiAMqCM+zgx1fCJDP2BGmEqD5SRT9kO71nE7qfU
+        Y5PP4/V0CEDhcNbAkXlmM48KB5+DMsDvdUrbtzOlGZN0dAC6Rc0HKBSZZ+7yZIXYcTnKUhDTeEEhf5eX
+        Go8PDMCykdm29YVSjL+Jlxh53ZyLQWiwPpftjT4EAPNCnhrwhzfJyPyV2eaf6rmixANyDSoZPP8kMjbc
+        grnIP5HMp3gt9j3CKPoNjmXKwpCv34sAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAALQAAAAsCAYAAADM+JIcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM8SURBVHhe7Z09bBMxFMdvZGRkZGQ7XxESWxiIXTHwEfsE
+        C4IFiQUJJAbYOiIxsDFUYsjE0KlDV1aEGDKyFTFUQkrTNA0flTLAe3cvNGmdQD56nE//v/RTq97ZvuHf
+        p3f2sy9aVHE9VUo3niXGrilj39PPltKunRj3C4BJ5B6xLWGNWVm9dVlsVawS7VbpAZr8UGTifWXcwPfQ
+        AMwC+amrtO2RvzaSursjdjs9cTTm/ygycNf3QAAsC/JYj7y2HRt7Rey3PF26lp6jzrc4GvsGB+DU4KhN
+        qexF3bggdlxMeY7svlDH/gEBKADy4NfkqrsutpxPqu5S6mjXNwAARUORukOefC72nE3ckDrpHO8UgP8K
+        vTRSkN0Um/6bODJTY5gZlBJVtwf087XYdbokZ0aaAUqO3aOc+q7Y1q/Y3D5PL3+f/R0AUDK0a09djKGb
+        3p1oBECpsdti33FlqQbmmUFoaHdAPBIbH4md7m0AQPnp1Gr3zoiVKTrrxk0yNKIzCBT7Ten0qdg5Kzba
+        8N8IQCjYltg5iih3/uG/CYBgOIxrN85GXM1EERrVcyBstO3HJr0fcXE+6plBNbBN5M+gQlAezbWm/osA
+        hAVlGjuYfwaVgSc3MMMBKgUbGi+EoDKQod2O7wIAocHBmXPolu8iAKGhtGtj2g5UCNviGuiX9IvnIgAB
+        kZ1KYLdQaQeqgXaHsXaPI64jpT/8PHEDAGHR5y2Ew2o7rBaCoMlWCYeilOMhvSF+990IQNmJTWNAQfmV
+        2Dkaph04hwMECQXjHp+/KHbOxWccUKTe8zUAoKzE+Ur3uth4XGRoFCqB0BjfIDsq3r2itMXp+yAIlEn3
+        Y50+EPv6ldTtE8pJsCULlBquEl0x7o3Ydrr4Rm7g6wiAMqCM+zgx1fCJDP2BGmEqD5SRT9kO71nE7qfU
+        Y5PP4/V0CEDhcNbAkXlmM48KB5+DMsDvdUrbtzOlGZN0dAC6Rc0HKBSZZ+7yZIXYcTnKUhDTeEEhf5eX
+        Go8PDMCykdm29YVSjL+Jlxh53ZyLQWiwPpftjT4EAPNCnhrwhzfJyPyV2eaf6rmixANyDSoZPP8kMjbc
+        grnIP5HMp3gt9j3CKPoNjmXKwpCv34sAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btındon.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJYAAAAnCAYAAADtl7EyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALkSURBVHhe7Zy/axRBFMe3tLS0085k5kBLS0srsbHWUu7e
+        ksY/IEWKFAG7FHbWgl3ASrCyc3ZPIWAREQKRxHCXaKJ4hX7fzpyYu8l6+yPFed8Hn9xd5scuzJc3b97u
+        TFLXXM/ezlO72hf7HJ8u8IvMNcU4hjFddbJ8Lwz3xVqeLt0qLirmNE/NQG8mm745Muf8NaZDfB9lqdm6
+        EJG5levXcum8ysUOKKQFRIrPIXCua24GWTQzdLaRiaGgyJghhPbi44Orl4JEqpk2dKl5CUF9jXROFhjo
+        4idCoXfvu+ZKkMts5qc++yETiw7inRMC9maeGtVTqajCvEpIOWL31REF+ZxvmPpee1cX6YSQSdQBwRGV
+        xlyouMGYilRFHZE6pCCjs6ZzJQq/xBoSMgPDaK5L81QQVqwBIf+miMnNTpCTN/94xmfSCamN2OOsZ9Ig
+        Kw3YzZZXHCHNwKy3XYjKpxfM91glQqqii78i/QBvdQfeitMgaYuTrLf8KMnTzjPEV7EKhFSmWABiIcjV
+        IGmdIs7SP7FCQmoj9gAeyx5ECwlpgD7GiRYQ0oQkE3sUKyCkCfBYZofJUdIm6qzUY72JFRJSi/EzQ911
+        w3QDaRN1VokT8xAq4ztYpBXgpEaZmLXErdy4DIX9iFUipAbDP+/B4wd3MZN20OTo2PShIf55MlWJkAog
+        rNJp8EmQlTemHUhTIKp9Da2CpLzp+8oo1G3U0UaElNEX8w2B++Mgp7OGCoy1SC0gqr1zt4CpG0Ol3clG
+        hJSBKfBzXzpLQUZx0wpaMdYBIVNI5xDT4P0gn3LLe+YuXBv3GJJyIKq3YrtBNrOZJrmwSvwU7ZAQxFQz
+        e6pJ02Nq4Lm2IbDjSMdkEfE7unZbOYBNNyFmYg+5TWxxcWJHcDAD6GB9KlfVxHQpqZ1qyh4XKs6mnLw4
+        +b/AGOsjGhXTUb9nn7YqqJgVB4iIWcPFXRBa9MbInOLH1CGG2tQDjcOwV7Ak+Q0ZWkZ9iXGpFQAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
+</root>
